@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xig49y4xw-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xig49y4xw-go-gitops
